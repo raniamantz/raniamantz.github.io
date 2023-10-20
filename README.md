@@ -1,2 +1,2 @@
 # raniamantz.github.io
-my repositiry
+my repository
